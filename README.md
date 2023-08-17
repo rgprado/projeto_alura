@@ -2,5 +2,5 @@
 
 > Status do projeto: em desenvolvimento
 ```
-npm install
+node app.js
 ```
